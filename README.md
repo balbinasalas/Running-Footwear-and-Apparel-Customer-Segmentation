@@ -37,10 +37,8 @@ Python, pandas, NumPy, scikit-learn (KMeans, GaussianMixture, silhouette_score, 
 ```
 running-gear-segmentation-study/
 ├── README.md
-├── requirements.txt
-├── .gitignore
 ├── notebooks/
-│   └── Running-Gear-Segmentation-Study.ipynb
+│   └── Running-Footwear-and-Apparel-Customer-Segmentation.ipynb
 ├── data/
 │   └── survey_data.csv
 |   └── Data_Dictionary.txt         
