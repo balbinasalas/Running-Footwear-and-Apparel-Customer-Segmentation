@@ -1,5 +1,5 @@
 # Running Footwear & Apparel Customer Segmentation
-![](images/Readme_graphic.png)
+![](images/Readme_graphic_2.png)
 Unsupervised learning study that segments running footwear & apparel customers into behavioral clusters, then breaks those clusters down by market (USA, UK, Japan) to generate region-specific product and marketing recommendations.
 
 ## Overview
