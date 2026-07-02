@@ -31,8 +31,6 @@ Regional nuances (e.g., color preference splits by gender, cushioning/plating pr
 ## Tools & Libraries
 Python, pandas, NumPy, scikit-learn (KMeans, GaussianMixture, silhouette_score, pairwise_distances), Matplotlib, Seaborn
 
-## Author
-Balbina Salas
 
 ## Repository Structure
 
@@ -48,3 +46,6 @@ running-gear-segmentation-study/
 |   └── Data_Dictionary.txt         
 └── images/                      # optional: exported charts for README/reports
 ```
+
+## Author
+Balbina Salas
