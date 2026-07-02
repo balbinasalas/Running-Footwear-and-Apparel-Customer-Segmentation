@@ -1,0 +1,65 @@
+## Data Dictionary
+-------------------------
+
+The data contains participants that answered a survey related to questions relevant to the running footwear and apparel company.
+- record: Dataset record number.	
+- id: Unique identifier for survey participant.	
+- The following are applicable for remaining attributes:
+    - 0	Unchecked
+    - 1	Checked
+- country:	Country represented by participant (A1r1-A1r3).	
+    - S1r1:	United States
+    -	S1r2:	United Kingdom
+    - S1r3:	Japan
+- verification:	Indication whether participant is valid or not for survey participation.	 
+    - S2r1:	Valid
+    - S2r2:	Invalid
+-gender:	Participant gender.	
+    - S3r1:	Male
+    - S3r2:	Female
+-age:	Participant age.	
+    - S4r1:	Under 18
+    - S4r2:	18-24
+    - S4r3:	25-34
+    - S4r4:	35-44
+    - S4r5:	45-54
+    - S4r6:	Above 55
+-Q1:	How regularly do you go for a run?	
+    - Q1r1:	Occasionally when the weather is nice.
+    - Q1r2:	Fairly regularly around 3-4 times a week.
+    - Q1r3:	Generally 5+ times a week.
+-Q2	How many pairs of running shoes do you own at a time when you train?	
+    - Q2r1:	A single pair that I use to go running in and also use for other activities.
+    - Q2r2:	1 pair of running shoes that I only use to run in.
+    - Q2r3:	3+ pairs of running shoes, some that I use for training and others that I use to race.
+    - Q2r4:	5+ pairs of running shoes depending on the type of training and racing that I'm doing.
+-Q3	What type of cushioning do the shoes that you train in most regularly use?	
+    - Q3r1:	I'm not sure
+    - Q3r2:	Foam
+    - Q3r3:	Rubber
+    - Q3r4:	Blend of foam & rubber
+-Q4	What type of plating do the shoes that you race in use?	
+    - Q4r1:	I don't run races
+    - Q4r2:	I use the same shoes I train in to run races
+    - Q4r3:	Rubber
+    - Q4r4:	Foam
+    - Q4r5:	Carbon Plate
+-Q5	What physical activities do you do outside of running?	
+    - Q5r1:	Activities like yoga and pilates
+    - Q5r2:	Nothing outside of running
+    - Q5r3:	Spinning
+    - Q5r4:	Strength conditioning like lifting
+    - Q5r5:	Swimming
+    - Q5r6:	Hiking
+-Q6	What is your top complaint about the shoe you use to run in most regularly?	
+    - Q6r1:	I have no complaints!
+    - Q6r2:	They wear out too fast and I'm always having to buy new ones.
+    - Q6r3:	They feel too narrow for my feet.
+    - Q6r4:	They are too heavy.
+    - Q6r5:	They feel great but don't feel fashionable.
+-Q7	What colors do you prefer for the shoes you run in most often?	
+    - Q7r1:	Anything bright & bold
+    - Q7r2:	Soft pastels - pink, coral, purple
+    - Q7r3:	Earth tones - greens, yellows, browns
+    - Q7r4:	Neutrals - black & white
+    - Q7r5:	Something normal, no strong preference
